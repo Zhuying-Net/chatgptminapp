@@ -4,7 +4,7 @@
 ChatGPT 小程序后台开源代码，小程序搭建，
 
 #### 软件架构
-本系统采用 小程序+后端thinkphp 开发
+本系统 微信小程序+PC手机自适应+后端thinkphp 开发
 
 
 #### 安装教程
@@ -15,8 +15,10 @@ ChatGPT 小程序后台开源代码，小程序搭建，
 
 #### 使用说明
 
-演示地址：https://wwwchat.xymfsy.com/admin/
+演示地址：https://www.zhuying.vip/admin/
 账号密码： test/test
+
+web页面地址 https://www.zhuying.vip/web/
 
 #### 参与贡献
 
