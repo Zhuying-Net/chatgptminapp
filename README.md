@@ -18,6 +18,8 @@ ChatGPT 小程序后台开源代码，小程序搭建，
 演示地址：https://www.zhuying.vip/admin/
 账号密码： test/test
 
+GPT4APIkey1元1刀:https://openai.qiheweb.com
+
 web页面地址 https://www.zhuying.vip/web/
 
 支持多开小程序/web页面  
